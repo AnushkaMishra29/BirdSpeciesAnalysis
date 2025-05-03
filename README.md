@@ -51,6 +51,13 @@ The cleaned data is used to create **interactive dashboards** in Power BI:
    - Import the cleaned Excel file into Power BI.
    - Create and customize visualizations.
 4. **Analyze & Interpret the Results**
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/c2c43c05-84ee-4147-9719-df5db73fd022" />
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/e9b92242-fe1c-4e7f-bed4-2c43ace7b8dd" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/434f1059-0ab9-4f9d-a3f8-5c86bd8e4151" />
+
+
+
+
 
 
 
